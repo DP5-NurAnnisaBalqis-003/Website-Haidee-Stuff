@@ -1,0 +1,112 @@
+.jumbotron {
+  background-color: #c35d5d; 
+  padding-top: 6rem; 
+  color: rgb(0, 0, 0); 
+}
+
+nav {
+  background-color: #c55555; 
+}
+
+body {
+  background-color: #f18969;
+}
+
+h1 {
+  display: block; 
+  text-align: center; 
+}
+
+#carouselExampleFade {
+  max-width: 18rem; 
+  margin: auto; 
+}
+
+#Beranda {
+  padding-top: 4rem; 
+  background-color: #f1f1f1; 
+  margin-top: -50px; 
+  color: white; 
+}
+
+#Beranda p {
+  color: black;
+}
+
+#Produk {
+  background-color: #104157d2;
+  border: none;
+  color: rgb(0, 0, 0);
+}
+
+#Order {
+  background-color: #c35d5d;
+}
+
+.order-page {
+  text-align: center;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.order-image {
+  max-width: 50%;
+  height: auto;
+  margin-bottom: 20px;
+}
+
+.order-svg {
+  width: 100vw;
+  position: absolute;
+  bottom: 0;
+  margin-top: -60px;
+  fill: #b74c4c;
+}
+
+#Tentang {
+  background-color: #23415f;
+  color: white;
+  padding: 4rem 0;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.tentang-content {
+  text-align: justify;
+}
+
+.tentang-content h2 {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#Kontak {
+  background-color: #23415f;
+}
+
+.container {
+  text-align: center;
+}
+
+.kontak-item img {
+  width: 30px;
+  height: auto;
+  margin-right: 10px;
+}
+
+.kontak-item:nth-child(2) img {
+  width: 30px;
+  height: auto;
+  margin-right: 10px;
+}
+
+footer {
+  background-color: #c55555;
+  color: white;
+  padding-bottom: 1rem;
+}
